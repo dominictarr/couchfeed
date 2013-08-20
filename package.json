@@ -1,6 +1,6 @@
 {
   "name": "couchfeed",
-  "description": "",
+  "description": "sync changes from couchdb",
   "version": "0.0.0",
   "homepage": "https://github.com/dominictarr/couchfeed",
   "repository": {
