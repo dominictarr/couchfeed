@@ -8,6 +8,8 @@
     "url": "git://github.com/dominictarr/couchfeed.git"
   },
   "dependencies": {
+    "request": "2.27",
+    "split": "0.2.10"
   },
   "devDependencies": {
   },
