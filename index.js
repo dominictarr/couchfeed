@@ -1,6 +1,5 @@
 var request = require('request')
 var split   = require('split')
-var backoff = require('backoff')
 var EventEmitter = require('events').EventEmitter
 
 //read from couch until you havn't heard anything in a while.
